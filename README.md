@@ -13,9 +13,6 @@
  
  <br>
 
-## 🚀 Como Acessar o projeto
-[Clique aqui para acessar](https://anafts.github.io/Digital-Clock/)
-
 <br>
 
 ## 🛠️ Linguagens: 
