@@ -9,7 +9,7 @@
 
 ## 💻 Descrição do projeto 
 
-
+ É um projeto desenvolvido durante o curso de JavaScrpit da plataforma curso em vídeo
  
  <br>
 
